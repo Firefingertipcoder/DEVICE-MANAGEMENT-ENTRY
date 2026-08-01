@@ -18,4 +18,4 @@ A professional Desktop Application built with Python and Tkinter for managing co
 ## 📥 How to Run
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/REPOT_NAME.git
+   git clone https://github.com/Firefingertipcoder/DEVICE-MANAGEMENT-ENTRY.git
