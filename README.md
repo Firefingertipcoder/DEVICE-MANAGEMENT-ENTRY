@@ -19,8 +19,6 @@ A professional Desktop Application built with Python and Tkinter for managing co
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Firefingertipcoder/DEVICE-MANAGEMENT-ENTRY.git
-
-## ScreenSHots
 ## 📸 Screenshots
 
 <p align="center">
